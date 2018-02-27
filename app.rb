@@ -1,6 +1,6 @@
 require "bundler"
 Bundler.require
 
-ge '/' do
+get '/' do
   redirect 'index.html'
 end

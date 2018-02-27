@@ -11,11 +11,9 @@ GEM
     tilt (2.0.1)
 
 PLATFORMS
-  rubygems
+  ruby
+  unknown
   x86-mingw32
 
 DEPENDENCIES
   sinatra
-
-BUNDLED WITH
-  1.11.2
