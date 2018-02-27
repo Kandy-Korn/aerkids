@@ -3,12 +3,6 @@ body {
   color: #95f9b8;
 }
 
-h1 {
-  font-family: cursive;
-  font-weight: bold;
-  text-align: center;
-}
-
 /* Bordered form */
 form {
     border: 3px solid #f1f1f1;
@@ -101,18 +95,6 @@ input[type=text]:focus, input[type=password]:focus {
 hr {
   border: 1px solid #f1f1f1;
   margin-bottom: 25px;
-}
-
-/* Set a style for all buttons */
-button {
-  background-color: #4CAF50;
-  color: white;
-  padding: 14px 20px;
-  margin: 8px 0;
-  border: none;
-  cursor: pointer;
-  width: 100%;
-  opacity: 0.9;
 }
 
 button:hover {
